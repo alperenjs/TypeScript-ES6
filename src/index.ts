@@ -57,3 +57,5 @@ const user: User= {
     id: 1,
     name: 'john'
 }
+
+//todo > add es6 object class works before TS
